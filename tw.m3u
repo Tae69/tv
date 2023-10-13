@@ -12,9 +12,9 @@ https://ythls.onrender.com/channel/UC2VmWn8dAqkzlQqvy02E1PA.m3u8
 #EXTINF:-1 tvg-id="FTVOne.tw" tvg-logo="https://i.imgur.com/HBT2o0I.png" group-title="General",FTV One (民視第一台) (720p) [Not 24/7]
 http://seb.sason.top/ptv/ftv.php?id=dy
 #EXTINF:-1 tvg-id="三立台湾" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/97/Sanlih_E-Television_logo.png?20081003094008" group-title="General",三立台湾 (720p) [Not 24/7]
-http://198.16.100.90:8278/sanlitaiwan/playlist.m3u8?tid=m92ccadc4dc3718157816&ct=17874&tsum=3570a8198ca0fb7ebb803807e38b33fb
+http://198.16.100.90:8278/sanlitaiwan/playlist.m3u8?tid=MBFB2351438523514385&ct=19193&tsum=15393958be0bf6c0905bbb578dad1240
 #EXTINF:-1 tvg-id="ZhejiangSatelliteTVInternational.cn" tvg-logo="https://i.imgur.com/XOL1Hph.png" group-title="Undefined",Zhejiang TV International
-https://hw-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8
+http://180.97.247.27/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel19/index.m3u8
 #EXTINF:-1 tvg-id="CCTV5Plus.cn" tvg-logo="https://i.imgur.com/OK8mdJV.png" group-title="Undefined",CCTV-5+体育赛事 (1080p)
 https://live.goodiptv.club/api/cqyx.php?id=cctv5SportHD
 #EXTINF:-1 tvg-id="CCTV5.cn" tvg-logo="https://i.imgur.com/nbmnGwE.png" group-title="Sports",CCTV-5体育 (1080p)
