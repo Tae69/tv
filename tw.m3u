@@ -34,7 +34,7 @@ http://seb.sason.top/ptv/ftv.php?id=ms
 https://ythls.onrender.com/channel/UC2VmWn8dAqkzlQqvy02E1PA.m3u8
 #EXTINF:-1 tvg-id="FTVOne.tw" tvg-logo="https://i.imgur.com/HBT2o0I.png" group-title="General",FTV One (民視第一台) (720p) [Not 24/7]
 http://seb.sason.top/ptv/ftv.php?id=dy
-#EXTINF:-1 tvg-id="Sanlih" tvg-logo="https://i.imgur.com/HBT2o0I.png" group-title="General",Sanlih (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="三立台湾" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/97/Sanlih_E-Television_logo.png?20081003094008" group-title="General",三立台湾 (720p) [Not 24/7]
 http://198.16.100.90:8278/sanlitaiwan/playlist.m3u8?tid=m92ccadc4dc3718157816&ct=17874&tsum=3570a8198ca0fb7ebb803807e38b33fb
 #EXTINF:-1 tvg-id="GlobalNews.tw" tvg-logo="https://i.imgur.com/oYUjEle.png" group-title="News",Global News
 http://ythls.onrender.com/channel/UCp2f7tGJGN6R9Muxipem8Nw.m3u8
